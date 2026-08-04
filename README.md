@@ -196,7 +196,7 @@ Manikanta
 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using Power BI, Excel.
 
 
-🔗 LinkedIn
+🔗 LinkedIn: www.linkedin.com/in/manikantaa1999
 
 
-📧 Email
+📧 Email : manikantaperumalla143@gmail.com

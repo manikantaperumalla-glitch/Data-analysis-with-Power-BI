@@ -4,7 +4,7 @@
 An interactive Power BI dashboard for analysing e-commerce sales performance, profitability, sales targets, customer orders, and regional sales trends using DAX calculations and dynamic visualizations.
 
 
-📌 Project Overview:
+📌 Project Overview
 
 
 This project presents an interactive Power BI dashboard built to analyze e-commerce sales data. It helps monitor sales performance, compare actual sales against targets, identify profitable product categories, and track order and revenue trends across cities and states — enabling data-driven business decisions.

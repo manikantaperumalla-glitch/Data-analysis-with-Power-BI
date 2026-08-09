@@ -505,7 +505,7 @@ E-Commerce-Sales-Analysis/
 
 # 📷 Dashboard Preview
 
-Add your final Power BI dashboard screenshot here:
+Add your final Power BI dashboard screenshot here:https://drive.google.com/file/d/1Ai0bSbttMSCzn-CzR-R6OoC-qxsb5NpN/view?usp=sharing
 
 ```markdown
 ![E-Commerce Sales Dashboard](Screenshots/Dashboard.png)
